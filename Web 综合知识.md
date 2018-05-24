@@ -2,12 +2,6 @@
 
 > 非原创
 
-> 非原创
-
-> Web 研发(FE|PHP)面试常见问题 请移到 [Web-question](https://github.com/Aierui/web-questions)
-
-
-
 1. 综合类
 
     - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
